@@ -11,6 +11,4 @@ public class ApplicationController {
 	private String getHi() {
 		return "Hi Sri - App User is working on Openshift";
 	}
-	
-
 }
